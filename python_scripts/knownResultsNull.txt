@@ -1,0 +1,2 @@
+Motif Name	Consensus	P-value	Log P-value	q-value (Benjamini)	# of Target Sequences with Motif(of 48)	% of Target Sequences with Motif	# of Background Sequences with Motif(of 132)	% of Background Sequences with Motif
+1-TGCATG,BestGuess:hsa-miR-3680* MIMAT0018107 Homo sapiens miR-3680* Targets (miRBase)(0.690)	TGCATG	1	0	0	0	0%	0	0%
